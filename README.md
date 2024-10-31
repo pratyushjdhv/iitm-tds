@@ -57,20 +57,3 @@ Based on our analysis:
 3. Craft a concise, engaging bio that highlights your expertise and interests.
 4. Engage in open-source contributions to increase visibility.
 
-## Future Work
-
-- Regular updates to keep the dataset current.
-- Deeper analysis of repository characteristics and their impact on follower counts.
-- Comparative studies with other major tech hubs globally.
-
-## Contributing
-
-We welcome contributions to this project! If you have suggestions for improvements or additional analyses, please open an issue or submit a pull request.
-
-## License
-
-(Add your chosen license information here)
-
----
-
-For any questions or collaborations, please contact [Your Contact Information].
